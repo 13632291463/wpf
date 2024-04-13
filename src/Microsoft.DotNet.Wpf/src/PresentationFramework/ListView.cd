@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Windows.Controls.ListView" Collapsed="true">
+    <Position X="1.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAABAAAAAAAAAAAEAAAEBAAAAAJAAAAQAECA=</HashCode>
+      <FileName>System\Windows\Controls\ListView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ListBox" Collapsed="true">
+    <Position X="1.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IFFACAAAATgABQAIZAAQJwNdwDMUAACEIAAAAAxqSCA=</HashCode>
+      <FileName>System\Windows\Controls\ListBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Primitives.Selector" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QwKpBgJCUjhwQABY0AgzeqxjFAFLCJJACZIQUEAGCio=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\Selector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Primitives.MultiSelector" Collapsed="true">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACgEAAAAAAAAAAAJEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\MultiSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ComboBox" Collapsed="true">
+    <Position X="6.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YP4aCVAIIjLCHVGdONA3P5lUCNOEoAAEOAACCAfKDTk=</HashCode>
+      <FileName>System\Windows\Controls\ComboBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.TabControl" Collapsed="true">
+    <Position X="8.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAICgAgABQAAGIEARQAUEAAQIAADgACBACIAYSIDk=</HashCode>
+      <FileName>System\Windows\Controls\TabControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.DataGrid" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/P9n738X//96/7+d38p/3993t/v//25/2///8+33/v8=</HashCode>
+      <FileName>System\Windows\Controls\DataGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.DataGridComboBoxColumn" Collapsed="true">
+    <Position X="5.5" Y="11" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Controls.DataGridComboBoxColumn.TextBlockComboBox" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\Windows\Controls\DataGridComboBoxColumn.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EBQgABhkMgwogEAIBRAABAQAhAAAAADAAhBAiJBAAgg=</HashCode>
+      <FileName>System\Windows\Controls\DataGridComboBoxColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ItemsControl" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Controls.Control" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.125" Y="2.427" />
+        <Point X="7.125" Y="3.062" />
+        <Point X="4.75" Y="3.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>aPWcej1FASPR/YKNmppFQ4Vz7TcwBZv04ttBj51BQ6M=</HashCode>
+      <FileName>System\Windows\Controls\ItemsControl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.Primitives.DataGridCellsPresenter" Collapsed="true">
+    <Position X="23.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAlEggIAAJJAAIAAAIAAAgUUABkAAAAAAAIQIIwAAAA=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\DataGridCellsPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Primitives.DataGridColumnHeadersPresenter" Collapsed="true">
+    <Position X="26.25" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>hglkBEYIUPJkAIBAQABCEK2QAAFAAggCAgKAAQQAADA=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\DataGridColumnHeadersPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Primitives.MenuBase" Collapsed="true">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CJIAAAGIAiQAQwCBAAkAECEQEEYAaQAEoCAgIAYYAgA=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\MenuBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Primitives.StatusBar" Collapsed="true">
+    <Position X="28.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAwBIAAgAEQEAAAEAAAIAAAAAAAQAACA=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\StatusBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.HeaderedItemsControl" Collapsed="true">
+    <Position X="17.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RSICAAAAKAIAQAAEAAAaAIAAQAwSAAAAAAAAAgCAAEI=</HashCode>
+      <FileName>System\Windows\Controls\HeaderedItemsControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.TreeView" Collapsed="true">
+    <Position X="21" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IFIIDAJKQAiAAJAagAAJAQFiBNIAEAIAABAAAQaQkCA=</HashCode>
+      <FileName>System\Windows\Controls\TreeView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.MenuItem" Collapsed="true">
+    <Position X="18.75" Y="9" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Controls.HeaderedItemsControl" FixedToPoint="true">
+      <Path>
+        <Point X="18.25" Y="4.927" />
+        <Point X="18.25" Y="9.312" />
+        <Point X="18.75" Y="9.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>WP57yhUIbGRoH0HMtGx3lflviRMqB2KHatBCguUIUug=</HashCode>
+      <FileName>System\Windows\Controls\MenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.ToolBar" Collapsed="true">
+    <Position X="18.75" Y="7.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Controls.HeaderedItemsControl" FixedToPoint="true">
+      <Path>
+        <Point X="18.25" Y="4.927" />
+        <Point X="18.25" Y="7.875" />
+        <Point X="18.75" Y="7.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAYMRIDAIQAAoDJcEAQCgYBAQEMGABBEEBAQiEbQgCA=</HashCode>
+      <FileName>System\Windows\Controls\ToolBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.TreeViewItem" Collapsed="true">
+    <Position X="18.75" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Controls.HeaderedItemsControl" FixedToPoint="true">
+      <Path>
+        <Point X="18.25" Y="4.927" />
+        <Point X="18.25" Y="6.625" />
+        <Point X="18.75" Y="6.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>MBotgQnEBoAAEAAIgQAYQQEUBKIQQAhAIBSASHeigiI=</HashCode>
+      <FileName>System\Windows\Controls\TreeViewItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MS.Internal.Documents.DocumentGridContextMenu" Collapsed="true">
+    <Position X="22.5" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MS.Internal.Documents.DocumentGridContextMenu.EditorMenuItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MS\Internal\Documents\DocumentGridContextMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MS.Internal.Documents.DocumentGridContextMenu.ViewerContextMenu" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MS\Internal\Documents\DocumentGridContextMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAACAAAAAAAAIAAAAAAAAgAA=</HashCode>
+      <FileName>MS\Internal\Documents\DocumentGridContextMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Documents.TextEditorContextMenu" Collapsed="true">
+    <Position X="22.25" Y="8.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Documents.TextEditorContextMenu.EditorMenuItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\windows\Documents\TextEditorContextMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="System.Windows.Documents.TextEditorContextMenu.EditorContextMenu" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\windows\Documents\TextEditorContextMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="System.Windows.Documents.TextEditorContextMenu.ReconversionMenuItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\windows\Documents\TextEditorContextMenu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAgBAAAAAAAAAAAAAAAAAAgAAAAAAAAAgBAgAA=</HashCode>
+      <FileName>System\windows\Documents\TextEditorContextMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ContextMenu" Collapsed="true">
+    <Position X="14" Y="8.25" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Controls.Primitives.MenuBase" FixedToPoint="true">
+      <Path>
+        <Point X="13.75" Y="4.927" />
+        <Point X="13.75" Y="8.562" />
+        <Point X="14" Y="8.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IBIBJAAKAMCWGQAIBAEAgwoF0AMQEQAAaoYCCACAACs=</HashCode>
+      <FileName>System\Windows\Controls\ContextMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Menu" Collapsed="true">
+    <Position X="14" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Controls.Primitives.MenuBase" FixedToPoint="true">
+      <Path>
+        <Point X="13.75" Y="4.927" />
+        <Point X="13.75" Y="6.562" />
+        <Point X="14" Y="6.562" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAAAAIAAIAAAAASBBAAcAAIAACABEAAFEACA=</HashCode>
+      <FileName>System\Windows\Controls\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Control" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="System.Windows.FrameworkElement" FixedToPoint="true">
+      <Path>
+        <Point X="11.75" Y="1.677" />
+        <Point X="11.75" Y="2.062" />
+        <Point X="8" Y="2.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>Cp0EEDAMQFABSsAEAhEgKgE0ILlcAAggAAooQAEEGCA=</HashCode>
+      <FileName>System\Windows\Controls\Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.FrameworkElement" Collapsed="true">
+    <Position X="10.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>v3//+1rz/7/vXu//9u/+ef8/7/f1t7N0v345vh8t3/s=</HashCode>
+      <FileName>System\Windows\Generated\FrameworkElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
