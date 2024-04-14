@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="System.Windows.Controls.ListView" Collapsed="true">
     <Position X="1.5" Y="9" Width="1.5" />
@@ -57,25 +57,18 @@
       <Compartment Name="Methods" Collapsed="true" />
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
-    <NestedTypes>
-      <Class Name="System.Windows.Controls.DataGridComboBoxColumn.TextBlockComboBox" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>System\Windows\Controls\DataGridComboBoxColumn.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Class>
-    </NestedTypes>
     <TypeIdentifier>
       <HashCode>EBQgABhkMgwogEAIBRAABAQAhAAAAADAAhBAiJBAAgg=</HashCode>
       <FileName>System\Windows\Controls\DataGridComboBoxColumn.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="System.Windows.Controls.ItemsControl" Collapsed="true">
-    <Position X="3.25" Y="2.75" Width="1.5" />
+    <Position X="3.5" Y="2.75" Width="1.5" />
     <InheritanceLine Type="System.Windows.Controls.Control" FixedFromPoint="true" FixedToPoint="true">
       <Path>
         <Point X="7.125" Y="2.427" />
         <Point X="7.125" Y="3.062" />
-        <Point X="4.75" Y="3.062" />
+        <Point X="5" Y="3.062" />
       </Path>
     </InheritanceLine>
     <TypeIdentifier>
@@ -175,18 +168,6 @@
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
-    <NestedTypes>
-      <Class Name="MS.Internal.Documents.DocumentGridContextMenu.EditorMenuItem" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>MS\Internal\Documents\DocumentGridContextMenu.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Class>
-      <Class Name="MS.Internal.Documents.DocumentGridContextMenu.ViewerContextMenu" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>MS\Internal\Documents\DocumentGridContextMenu.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Class>
-    </NestedTypes>
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAQAAACAAAAAAAAIAAAAAAAAgAA=</HashCode>
       <FileName>MS\Internal\Documents\DocumentGridContextMenu.cs</FileName>
@@ -197,23 +178,6 @@
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
-    <NestedTypes>
-      <Class Name="System.Windows.Documents.TextEditorContextMenu.EditorMenuItem" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>System\windows\Documents\TextEditorContextMenu.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Class>
-      <Class Name="System.Windows.Documents.TextEditorContextMenu.EditorContextMenu" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>System\windows\Documents\TextEditorContextMenu.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Class>
-      <Class Name="System.Windows.Documents.TextEditorContextMenu.ReconversionMenuItem" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>System\windows\Documents\TextEditorContextMenu.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Class>
-    </NestedTypes>
     <TypeIdentifier>
       <HashCode>AAAAAQAgBAAAAAAAAAAAAAAAAAAgAAAAAAAAAgBAgAA=</HashCode>
       <FileName>System\windows\Documents\TextEditorContextMenu.cs</FileName>
