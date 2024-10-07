@@ -9,6 +9,7 @@ namespace System.Windows.Controls
 {
     /// <summary>
     ///   The template that produces a container for an ItemsControl
+    ///   为 ItemsControl 生成容器的模板
     /// </summary>
     [DictionaryKeyProperty("ItemContainerTemplateKey")]
     public class ItemContainerTemplate : DataTemplate

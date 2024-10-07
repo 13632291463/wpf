@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Windows.FrameworkTemplate" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.FrameworkTemplate.Frame" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\Windows\FrameworkTemplate.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="System.Windows.FrameworkTemplate.TemplateChildLoadedFlags" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\Windows\FrameworkTemplate.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="System.Windows.FrameworkTemplate.InternalFlags" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\Windows\FrameworkTemplate.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAihqIDJb1ABCCQFYAIc6CuABBIBEEJQgjTJBAAP/nQ=</HashCode>
+      <FileName>System\Windows\FrameworkTemplate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.ItemsPanelTemplate" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>System\Windows\Controls\ItemsPanelTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ControlTemplate" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADIAAAAAAAEAAAAQACACAAAAAAAAAAAgAAAQBA=</HashCode>
+      <FileName>System\Windows\ControlTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.DataTemplate" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEIAIAAIAAAAEAAAAQACACAAAAAAAAAAAAAAIQBA=</HashCode>
+      <FileName>System\Windows\DataTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ContentPresenter" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Controls.ContentPresenter.UseContentTemplate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\Windows\Controls\ContentPresenter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="System.Windows.Controls.ContentPresenter.DefaultTemplate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\Windows\Controls\ContentPresenter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="System.Windows.Controls.ContentPresenter.DefaultSelector" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>System\Windows\Controls\ContentPresenter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>SI9M4CBQgmAATcAKAAQAAESwILcAYAgQBAJEBUEAKUg=</HashCode>
+      <FileName>System\Windows\Controls\ContentPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ItemContainerTemplate" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>System\Windows\Controls\ItemContainerTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.HierarchicalDataTemplate" Collapsed="true">
+    <Position X="8" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ihAABCAAEDABkQIAIAEAQAAgEAAAAAAgAEEAEJMAAAA=</HashCode>
+      <FileName>System\Windows\HierarchicalDataTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.Primitives.DataGridDetailsPresenter" Collapsed="true">
+    <Position X="10.5" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAFAgAAAAAAAIAAAACAIgAQAIAYAAAAAAAQIAAAACA=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\DataGridDetailsPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Controls.ScrollContentPresenter" Collapsed="true">
+    <Position X="13.5" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>hAAMAMAAQABQAAAICQEIAMURCASQNbwAAgApAGABgAA=</HashCode>
+      <FileName>System\Windows\Controls\Primitives\ScrollContentPresenter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

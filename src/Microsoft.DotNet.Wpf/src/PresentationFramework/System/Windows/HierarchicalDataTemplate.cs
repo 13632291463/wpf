@@ -16,6 +16,7 @@ namespace System.Windows
 {
     /// <summary>
     ///     HierarchicalDataTemplate adds hierarchy support to DataTemplate.
+    ///     HierarchicalDataTemplate 向 DataTemplate 添加层次结构支持。
     /// </summary>
     public class HierarchicalDataTemplate : DataTemplate
     {
