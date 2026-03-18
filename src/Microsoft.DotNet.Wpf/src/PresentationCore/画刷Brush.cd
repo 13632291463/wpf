@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Windows.Media.Brush" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAQgUAgAgBYAABAUAQBAQETAAAgAAAAAIAAgggAAABA=</HashCode>
+      <FileName>System\Windows\Media\Generated\Brush.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Media.Effects.ImplicitInputBrush" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQAAAAgAAAAAAAAAAAAQADAAAAAAAAAAAAAgAAAADA=</HashCode>
+      <FileName>System\Windows\Media\Effects\Generated\ImplicitInputBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.BitmapCacheBrush" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MA+IIIEgQCEAAAgAIEkAYDjAAiAMAgAAMAAgkAKECHA=</HashCode>
+      <FileName>System\Windows\Media\Generated\BitmapCacheBrush.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Media.GradientBrush" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAACAAAKACAIAAAAAAgABAAAYAACAAgQAUBBI=</HashCode>
+      <FileName>System\Windows\Media\Generated\GradientBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.SolidColorBrush" Collapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NAQIAAggAAAAAAACAAAAQADAAogBAAAAAAAAgQAAADA=</HashCode>
+      <FileName>System\Windows\Media\Generated\SolidColorBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.TileBrush" Collapsed="true">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwwJCwAYAKIkIAAIEAAAhACYgABAAAAgAAEQiCAAGNA=</HashCode>
+      <FileName>System\Windows\Media\Generated\TileBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.DrawingBrush" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQIAAQgAAAAAABAAAAAQADAAAAAAAAAAAAAgKAAADA=</HashCode>
+      <FileName>System\Windows\Media\Generated\DrawingBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.ImageBrush" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQIBAAgAAAAAAAAAAMAQADAAAAAAAAAAAAAgCAAADA=</HashCode>
+      <FileName>System\Windows\Media\Generated\ImageBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.VisualBrush" Collapsed="true">
+    <Position X="20" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAeIAIMgQAAAAAAAIQgAYAjAACAEAAEAMAAggKKAAHA=</HashCode>
+      <FileName>System\Windows\Media\Generated\VisualBrush.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Media.LinearGradientBrush" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQIQAAhAABgQAAAAAAAQADAAAAAAAAAAIAAgAABADg=</HashCode>
+      <FileName>System\Windows\Media\Generated\LinearGradientBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.RadialGradientBrush" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQIAAAwQAAgMAAwAAAIWADAEAAAAAAIAAAAgAA4ADA=</HashCode>
+      <FileName>System\Windows\Media\Generated\RadialGradientBrush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Media.Animation.Animatable" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MABIUQIgYAAgIEAAAQAIOAoAgAAAAACAAIAAAgCAABA=</HashCode>
+      <FileName>System\Windows\Media\Animation\Generated\Animatable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
